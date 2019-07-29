@@ -1,4 +1,4 @@
-array = 
+array = ["Tim", "Tom", "Jim"]
 
 def hello_t(array)
   if block_given?
